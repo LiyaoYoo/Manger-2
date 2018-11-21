@@ -17,9 +17,6 @@ namespace Manger
         public Curve()
         {
             InitializeComponent();
-
-
-
         }
 
         /// <summary>
